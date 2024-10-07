@@ -3,4 +3,5 @@ matplotlib
 numpy
 pandas
 seaborn
-streamlit
+matplotlib==3.9.2
+
