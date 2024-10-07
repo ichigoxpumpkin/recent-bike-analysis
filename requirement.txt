@@ -1,5 +1,5 @@
 Babel
-matplotlib==3.9.2
+matplotlib
 numpy
 pandas
 seaborn
